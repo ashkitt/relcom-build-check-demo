@@ -1,0 +1,10 @@
+{
+  "name": "relcom-build-check-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny static website for testing build checks on Relcom Resources",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test"
+  }
+}
